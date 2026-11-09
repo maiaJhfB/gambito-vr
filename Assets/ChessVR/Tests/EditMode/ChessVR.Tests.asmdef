@@ -1,0 +1,8 @@
+{
+  "name": "ChessVR.Tests",
+  "references": ["ChessVR.Core"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false,
+  "noEngineReferences": true
+}

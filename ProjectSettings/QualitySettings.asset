@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!47 &1
+QualitySettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 5
+  m_CurrentQuality: 0
+  m_QualitySettings:
+  - serializedVersion: 5
+    name: Gambito
+    pixelLightCount: 2
+    shadows: 2
+    shadowResolution: 2
+    shadowProjection: 1
+    shadowCascades: 2
+    shadowDistance: 8
+    shadowNearPlaneOffset: 1
+    shadowCascade2Split: 0.33
+    shadowCascade4Split: {x: 0.067, y: 0.2, z: 0.467}
+    skinWeights: 4
+    globalTextureMipmapLimit: 0
+    textureMipmapLimitSettings: []
+    anisotropicTextures: 1
+    antiAliasing: 4
+    softParticles: 0
+    softVegetation: 0
+    realtimeReflectionProbes: 0
+    vSyncCount: 1
+    lodBias: 1
+    meshLodThreshold: 1
+    maximumLODLevel: 0
+    streamingMipmapsActive: 0
+    streamingMipmapsMemoryBudget: 256
+    particleRaycastBudget: 64
+    asyncUploadTimeSlice: 2
+    asyncUploadBufferSize: 16
+    asyncUploadPersistentBuffer: 1
+    resolutionScalingFixedDPIFactor: 1
+    customRenderPipeline: {fileID: 0}
+    terrainQualityOverrides: 0
+    excludedTargetPlatforms: []
+  m_TextureMipmapLimitGroupNames: []
+  m_PerPlatformDefaultQuality:
+    Standalone: 0

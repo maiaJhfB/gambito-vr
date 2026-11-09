@@ -1,0 +1,4 @@
+{
+  "name": "ChessVR.Editor",
+  "includePlatforms": ["Editor"]
+}

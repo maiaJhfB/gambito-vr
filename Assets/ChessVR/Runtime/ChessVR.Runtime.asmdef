@@ -1,0 +1,5 @@
+{
+  "name": "ChessVR.Runtime",
+  "rootNamespace": "ChessVR",
+  "references": ["ChessVR.Core", "Unity.InputSystem", "UnityEngine.UI"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ChessVR.PlayModeTests",
+  "references": ["ChessVR.Runtime", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

@@ -1,0 +1,5 @@
+{
+  "name": "ChessVR.Core",
+  "rootNamespace": "ChessVR.Core",
+  "noEngineReferences": true
+}
